@@ -1,0 +1,3 @@
+class Ostrich extends Bird {
+  
+}
